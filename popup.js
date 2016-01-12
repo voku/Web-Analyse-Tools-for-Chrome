@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var html = ' \
     <h3>' + url + '</h3> \
     <ul> \
+      <li><a href="http://wave.webaim.org/report#/' + urlEncoded + '" target="_blank">Check Accessibility (wave.webaim.org)</a></li>\
       <li><a href="http://tenon.io/testNow.php?url=' + urlEncoded + '" target="_blank">Check Accessibility (Tenon.io)</a></li>\
       <li><a href="http://www.webpagetest.org/" target="_blank">Check Performance (WebPageTest)</a></li> \
       <li><a href="http://tools.pingdom.com/fpt/#!/' + urlEncoded + '" target="_blank">Check Performance (Pingdom)</a></li> \
