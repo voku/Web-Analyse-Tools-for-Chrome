@@ -3,7 +3,7 @@
 
   "name": "Web-Development | Analysis-Tools",
   "description": "This extension shows links to some good Website-Analysis-Tools for the current tab.",
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "browser_action": {
     "default_icon": "icon.png",
