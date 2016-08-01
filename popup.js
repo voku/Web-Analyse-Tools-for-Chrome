@@ -77,6 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <li><a href="https://dev.modern.ie/tools/staticscan/?url=' + urlEncoded + '" target="_blank">Modern IE Site Scan</a></li> \
       <li><a href="https://www.google.com/webmasters/tools/mobile-friendly/?url=' + urlEncoded + '" target="_blank">Check Mobile-Friendly</a></li> \
       <li><a href="https://www.ssllabs.com/ssltest/analyze.html?d=' + window.location.host + '" target="_blank">Check SSL</a></li> \
+      <li><a href="https://mozilla.github.io/server-side-tls/ssl-config-generator/" target="_blank">SSL Config-Generator</a></li> \
       <li><a href="https://www.mail-tester.com/" target="_blank">Check Mail-Server</a></li> \
     </ul>';
 
